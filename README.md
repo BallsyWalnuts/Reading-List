@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/BallsyWalnuts/Reading-List/blob/6464db9c52925d6613aa8305de5c8f57ba380020/book-icon.png?raw=true" width="150" />
+</p>
 
 # My Reading List
 
@@ -6,7 +8,7 @@
 
 ## About
 
-This repo contains a running list of all the books that I have read. 
+This repo contains a running list of all the books that I have read.
 
 The list, as it currently stands, will list books by the year that I read them, and then by genre. Included with each book is a rating out of 5 stars. At some point in the future, I would probably like to include notes on significant books, but we shall see.
 
