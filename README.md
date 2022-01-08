@@ -1,4 +1,4 @@
-<img src="https://github.com/BallsyWalnuts/Reading-List/blob/6464db9c52925d6613aa8305de5c8f57ba380020/book-icon.png" style="zoom:20%;" />
+<img src="https://github.com/BallsyWalnuts/Reading-List/blob/6464db9c52925d6613aa8305de5c8f57ba380020/book-icon.png?r" style="zoom:20%;" />
 
 # My Reading List
 
