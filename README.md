@@ -16,11 +16,11 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [*1 Clement*](https://ccel.org/ccel/clement_rome/first_epistle_to_the_corinthians/anf01.ii.ii.html) - Clement of Rome :star::star::star::star::star:
+Most Recent Book: [*7 Epistles of Ignatius*](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch :star::star::star::star:
 
-Currently Reading: [*7 Epistles of Ignatius*](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch
+Currently Reading: [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie
 
-On Deck: [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie
+On Deck: [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna
 
 ---
 
@@ -41,3 +41,4 @@ On Deck: [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-C
 #### Christian Theology
 
 - [*1 Clement*](https://ccel.org/ccel/clement_rome/first_epistle_to_the_corinthians/anf01.ii.ii.html) - Clement of Rome :star::star::star::star::star:
+- [*7 Epistles of Ignatius*](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch :star::star::star::star:
