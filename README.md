@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-4-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-4-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-5-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-5-blue)
 
 ## About
 
@@ -19,11 +19,11 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
+Most Recent Book: [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna :star::star::star::star::star:
 
-Currently Reading: [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna
+Currently Reading: [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous
 
-On Deck: [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous
+On Deck: [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous
 
 ---
 
@@ -46,6 +46,7 @@ On Deck: [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/a
 
 - [*1 Clement*](https://ccel.org/ccel/clement_rome/first_epistle_to_the_corinthians/anf01.ii.ii.html) - Clement of Rome :star::star::star::star::star:
 - [*7 Epistles of Ignatius*](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch :star::star::star::star:
+- [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna :star::star::star::star::star:
 
 #### Fiction
 
