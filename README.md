@@ -23,7 +23,7 @@ Most Recent Book: [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaf
 
 Currently Reading: [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous
 
-On Deck: Not sure yet
+On Deck: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous
 
 ---
 
