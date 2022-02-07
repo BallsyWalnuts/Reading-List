@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-6-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-6-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-7-blue)
 
 ## About
 
@@ -19,11 +19,11 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous :star::star::star::star:
+Most Recent Book: [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous :star::star::star:
 
-Currently Reading: [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous
+Currently Reading: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous
 
-On Deck: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous
+On Deck: [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin
 
 ---
 
@@ -48,6 +48,7 @@ On Deck: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.ht
 - [*7 Epistles of Ignatius*](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch :star::star::star::star:
 - [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna :star::star::star::star::star:
 - [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous :star::star::star: :star:
+- [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous :star::star::star:
 
 #### Fiction
 
