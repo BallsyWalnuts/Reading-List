@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-7-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-7-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-8-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-8-blue)
 
 ## About
 
@@ -19,11 +19,11 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous :star::star::star:
+Most Recent Book: [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin Martyr :star::star::star:
 
-Currently Reading: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous
+Currently Reading: [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens
 
-On Deck: [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin
+On Deck: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous
 
 ---
 
@@ -49,6 +49,7 @@ On Deck: [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/fi
 - [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna :star::star::star::star::star:
 - [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous :star::star::star: :star:
 - [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous :star::star::star:
+- [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin Martyr :star::star::star: 
 
 #### Fiction
 
