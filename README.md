@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-9-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date--blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-11-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-11-blue)
 
 ## About
 
@@ -19,11 +19,11 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens :star::star::star::star:
+Most Recent Book: [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers :star::star::star::star::star:
 
-Currently Reading: [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous
+Currently Reading: [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
 
-On Deck: [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers
+On Deck: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald
 
 ---
 
@@ -49,7 +49,9 @@ On Deck: [The Lord's Service: The Grace of Covenant Renewal Worship](https://can
 - [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna :star::star::star::star::star:
 - [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous :star::star::star: :star:
 - [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous :star::star::star:
-- [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin Martyr :star::star::star: 
+- [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin Martyr :star::star::star:
+- [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous :star::star::star::star:
+- [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers :star::star::star::star::star:
 
 #### Fiction
 
