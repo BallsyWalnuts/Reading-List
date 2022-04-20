@@ -21,7 +21,11 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 Most Recent Book: [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers :star::star::star::star::star:
 
-Currently Reading: [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
+Currently Reading: 
+
+- [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
+- [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell
+- [Future Men: Raising Boys to Fight Giants](https://www.amazon.com/Future-Men-Raising-Fight-Giants/dp/1591281105/ref=sr_1_1?crid=3K8XCVIRFR8WH&keywords=future+men&qid=1650498666&sprefix=future+men%2Caps%2C128&sr=8-1) - Douglas Wilson
 
 On Deck: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald
 
