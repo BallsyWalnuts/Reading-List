@@ -45,6 +45,7 @@ On Deck: [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/s
 #### Non-Fiction
 
 - [*Amusing Ourselves to Death*](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X/ref=sr_1_1?keywords=amusing+ourselves+to+death&qid=1641675565&sprefix=amusing%2Caps%2C144&sr=8-1) - Neil Postman :star::star::star::star::star:
+- [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star::star:
 
 #### Christian Theology
 
@@ -61,7 +62,3 @@ On Deck: [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/s
 
 - [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
 -  [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens :star::star::star::star:
-
-#### Non-Fiction
-
-- [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star: :star:
