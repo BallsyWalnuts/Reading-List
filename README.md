@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-11-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-11-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-12-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-12-blue)
 
 ## About
 
@@ -19,15 +19,15 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers :star::star::star::star::star:
+Most Recent Book: [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star: :star:
 
 Currently Reading: 
 
 - [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
-- [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell
+- [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald
 - [Future Men: Raising Boys to Fight Giants](https://www.amazon.com/Future-Men-Raising-Fight-Giants/dp/1591281105/ref=sr_1_1?crid=3K8XCVIRFR8WH&keywords=future+men&qid=1650498666&sprefix=future+men%2Caps%2C128&sr=8-1) - Douglas Wilson
 
-On Deck: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald
+On Deck: [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr
 
 ---
 
@@ -61,3 +61,7 @@ On Deck: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802
 
 - [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
 -  [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens :star::star::star::star:
+
+#### Non-Fiction
+
+- [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star: :star:
