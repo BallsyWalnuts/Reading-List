@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-14-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-14-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-16-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-16-blue)
 
 ## About
 
@@ -21,14 +21,16 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [The Winter King](https://canonpress.com/products/winter-king/) - Christine Cohen :star::star::star::star:
+Most Recent Book: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star:   
 
 Currently Reading: 
 
 - [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
-- [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald
+- [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr
+- [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine
 
-On Deck: [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr
+
+On Deck: ???
 
 ---
 
@@ -64,6 +66,8 @@ On Deck: [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/s
 - [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
 -  [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens :star::star::star:
 -  [The Winter King](https://canonpress.com/products/winter-king/) - Christine Cohen :star::star::star::star:
+-  [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star: 
+- [Ride Sally Ride](https://canonpress.com/products/ride-sally-ride-a-novel/) - Douglas Wilson :star::star::star::star:
 
 #### Self-Help
 
