@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-16-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-16-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-19-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-19-blue)
 
 ## About
 
@@ -15,7 +15,7 @@ This repo contains a running list of all the books that I have read.
 
 The list, as it currently stands, will list books by the year that I read them, and then by genre. Included with each book is a rating out of 5 stars. At some point in the future, I would probably like to include notes on significant books, but we shall see.
 
-My general interests are Christian theology, cultural commentary, poetry, and historical fiction, so those may be seen the most on the list, but I am willing to read in just about any genre, so we will see where this goes. Tastes change over time too, so I really have no idea what will pique my interest in the future. 
+My general interests are Christian theology, cultural commentary, poetry, and historical fiction, so those may be seen the most on the list, but I am willing to read in just about any genre, so we will see where this goes. Tastes change over time too, so I really have no idea what will pique my interest in the future.
 
 ***Note: I most certainly include audiobooks as books "read."***
 
@@ -23,10 +23,9 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 Most Recent Book: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star:   
 
-Currently Reading: 
+Currently Reading:
 
 - [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
-- [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr
 - [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine
 
 
@@ -49,6 +48,7 @@ On Deck: ???
 
 - [*Amusing Ourselves to Death*](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X/ref=sr_1_1?keywords=amusing+ourselves+to+death&qid=1641675565&sprefix=amusing%2Caps%2C144&sr=8-1) - Neil Postman :star::star::star::star::star:
 - [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star::star:
+- [Killer Angel: A Biography of Planned Parenthood's Margaret Sanger](https://canonpress.com/products/killer-angel/) - George Grant :star::star::star::star:
 
 #### Christian Theology
 
@@ -60,13 +60,15 @@ On Deck: ???
 - [First Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/first_apology/anf01.viii.ii.html) - Justin Martyr :star::star::star:
 - [The Didache](https://ccel.org/ccel/lightfoot/fathers/fathers.ii.xii.html) - Anonymous :star::star::star::star:
 - [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers :star::star::star::star::star:
+- [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr :star::star::star:
+- [Gashmu Saith It: How To Build Christian Communities that Save the World](https://canonpress.com/products/gashmu-saith-it/) - Douglas Wilson :star::star::star::star:
 
 #### Fiction
 
 - [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
 -  [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens :star::star::star:
 -  [The Winter King](https://canonpress.com/products/winter-king/) - Christine Cohen :star::star::star::star:
--  [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star: 
+-  [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star:
 - [Ride Sally Ride](https://canonpress.com/products/ride-sally-ride-a-novel/) - Douglas Wilson :star::star::star::star:
 
 #### Self-Help
