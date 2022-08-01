@@ -21,12 +21,12 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star:   
+Most Recent Book: [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine :star::star::star::star:   
 
 Currently Reading:
 
 - [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
-- [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine
+- [The Institutes of the Christian Religion](https://ccel.org/ccel/calvin/institutes/institutes.) - John Calvin
 
 
 On Deck: ???
@@ -49,6 +49,7 @@ On Deck: ???
 - [*Amusing Ourselves to Death*](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X/ref=sr_1_1?keywords=amusing+ourselves+to+death&qid=1641675565&sprefix=amusing%2Caps%2C144&sr=8-1) - Neil Postman :star::star::star::star::star:
 - [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star::star:
 - [Killer Angel: A Biography of Planned Parenthood's Margaret Sanger](https://canonpress.com/products/killer-angel/) - George Grant :star::star::star::star:
+- [All Things Bright and Beautiful](https://www.amazon.com/Things-Bright-Beautiful-Herriot-1974-08-15/dp/B017V8M754/ref=sr_1_3?keywords=all+things+bright+and+beautiful+james+herriot&qid=1659376369&sprefix=all+things+bright%2Caps%2C106&sr=8-3) - James Herriot :star::star::star::star::star:
 
 #### Christian Theology
 
@@ -62,6 +63,7 @@ On Deck: ???
 - [The Lord's Service: The Grace of Covenant Renewal Worship](https://canonpress.com/products/the-lords-service/) - Jeffrey J. Meyers :star::star::star::star::star:
 - [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr :star::star::star:
 - [Gashmu Saith It: How To Build Christian Communities that Save the World](https://canonpress.com/products/gashmu-saith-it/) - Douglas Wilson :star::star::star::star:
+- [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine :star::star::star::star:
 
 #### Fiction
 
@@ -70,6 +72,7 @@ On Deck: ???
 -  [The Winter King](https://canonpress.com/products/winter-king/) - Christine Cohen :star::star::star::star:
 -  [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star:
 - [Ride Sally Ride](https://canonpress.com/products/ride-sally-ride-a-novel/) - Douglas Wilson :star::star::star::star:
+- [To Kill a Mockingbird](https://www.amazon.com/Harper-Lee-Kill-Mockingbird/dp/B00852ZXLQ/ref=sr_1_12?crid=1QZX6G8NGL6U0&keywords=to+kill+a+mockingbird&qid=1659376267&sprefix=to+kill+%2Caps%2C351&sr=8-12) - Harper Lee :star::star::star::star::star:
 
 #### Self-Help
 
