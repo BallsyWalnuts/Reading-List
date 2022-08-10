@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-22-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-22-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-24-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-24-blue)
 
 ## About
 
@@ -21,15 +21,18 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine :star::star::star::star:   
+Most Recent Book: [Baptism: A Guide From Life to Death](https://lexhampress.com/product/197299/baptism-a-guide-to-life-from-death) - Peter J. Leithart :star::star::star::star:   
 
 Currently Reading:
 
-- [The Poetry of Robert Frost](https://www.amazon.com/Poetry-Robert-Frost/dp/0030725356) - Robert Frost
 - [The Institutes of the Christian Religion](https://ccel.org/ccel/calvin/institutes/institutes.) - John Calvin
+- [Kim](https://www.amazon.com/Kim-Rudyard-Kipling/dp/149757532X) - Rudyard Kipling
+- [The Baptized Body](https://canonpress.com/products/the-baptized-body/) - Peter J. Leithart
 
 
-On Deck: ???
+On Deck:
+
+- [Jane Eyre](https://www.amazon.com/Jane-Eyre-Everymans-Library-Classics/dp/1857150104) - Charlotte Bronte
 
 ---
 
@@ -64,6 +67,8 @@ On Deck: ???
 - [Second Apology of Justin Martyr](https://ccel.org/ccel/justin_martyr/second_apology/anf01.viii.iii.html) - Justin Martyr :star::star::star:
 - [Gashmu Saith It: How To Build Christian Communities that Save the World](https://canonpress.com/products/gashmu-saith-it/) - Douglas Wilson :star::star::star::star:
 - [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine :star::star::star::star:
+- [Against Christianity](https://canonpress.com/products/against-christianity/) - Peter J. Leithart :star::star::star::star:
+- [Baptism: A Guide From Life to Death](https://lexhampress.com/product/197299/baptism-a-guide-to-life-from-death) - Peter J. Leithart :star::star::star::star:
 
 #### Fiction
 
