@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-24-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-24-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-25-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-25-blue)
 
 ## About
 
@@ -21,7 +21,7 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Baptism: A Guide From Life to Death](https://lexhampress.com/product/197299/baptism-a-guide-to-life-from-death) - Peter J. Leithart :star::star::star::star:   
+Most Recent Book: [Fidelity: How To Be a One-Woman Man](https://canonpress.com/products/fidelity-how-to-be-a-one-woman-man/) - Douglas Wilson :star::star::star::star:   
 
 Currently Reading:
 
@@ -42,6 +42,7 @@ On Deck:
   - [Non-Fiction](#non-fiction)
   - [Christian Theology](#christian-theology)
   - [Fiction](#fiction)
+  - [Self-Help](#self-help)
 
 ---
 
@@ -82,3 +83,4 @@ On Deck:
 #### Self-Help
 
 - [Future Men: Raising Boys to Fight Giants](https://www.amazon.com/Future-Men-Raising-Fight-Giants/dp/1591281105/ref=sr_1_1?crid=3K8XCVIRFR8WH&keywords=future+men&qid=1650498666&sprefix=future+men%2Caps%2C128&sr=8-1) - Douglas Wilson :star::star::star::star:
+- [Fidelity: How To Be a One-Woman Man](https://canonpress.com/products/fidelity-how-to-be-a-one-woman-man/) - Douglas Wilson :star::star::star::star:
