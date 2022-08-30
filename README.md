@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-25-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-25-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-26-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-26-blue)
 
 ## About
 
@@ -38,26 +38,26 @@ On Deck:
 ## Table of Contents
 
 - [2022](#2022)
-  - [Non-Fiction](#non-fiction)
-  - [Christian Theology](#christian-theology)
-  - [Fiction](#fiction)
-  - [Self-Help](#self-help)
+  - [Non-Fiction](#2022-non-fiction)
+  - [Christian Theology](#2022-christian-theology)
+  - [Fiction](#2022-fiction)
+  - [Self-Help](#2022-self-help)
 
 ---
 
 ### 2022
 
-#### Non-Fiction
+#### 2022 Non-Fiction
 
-- [*Amusing Ourselves to Death*](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X/ref=sr_1_1?keywords=amusing+ourselves+to+death&qid=1641675565&sprefix=amusing%2Caps%2C144&sr=8-1) - Neil Postman :star::star::star::star::star:
+- [Amusing Ourselves to Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X/ref=sr_1_1?keywords=amusing+ourselves+to+death&qid=1641675565&sprefix=amusing%2Caps%2C144&sr=8-1) - Neil Postman :star::star::star::star::star:
 - [Lone Survivor](https://www.amazon.com/Lone-Survivor-Eyewitness-Account-Operation/dp/0316067601/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1650498581&sr=8-1) - Marcus Luttrell :star::star::star::star:
 - [Killer Angel: A Biography of Planned Parenthood's Margaret Sanger](https://canonpress.com/products/killer-angel/) - George Grant :star::star::star::star:
 - [All Things Bright and Beautiful](https://www.amazon.com/Things-Bright-Beautiful-Herriot-1974-08-15/dp/B017V8M754/ref=sr_1_3?keywords=all+things+bright+and+beautiful+james+herriot&qid=1659376369&sprefix=all+things+bright%2Caps%2C106&sr=8-3) - James Herriot :star::star::star::star::star:
 
-#### Christian Theology
+#### 2022 Christian Theology
 
-- [*1 Clement*](https://ccel.org/ccel/clement_rome/first_epistle_to_the_corinthians/anf01.ii.ii.html) - Clement of Rome :star::star::star::star::star:
-- [*7 Epistles of Ignatius*](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch :star::star::star::star:
+- [1 Clement](https://ccel.org/ccel/clement_rome/first_epistle_to_the_corinthians/anf01.ii.ii.html) - Clement of Rome :star::star::star::star::star:
+- [7 Epistles of Ignatius](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01) - Ignatius of Antioch :star::star::star::star:
 - [Epistle to Philippians and Martyrdom](https://ccel.org/ccel/polycarp/epistle_to_the_philippians/anf01) - Polycarp of Smyrna :star::star::star::star::star:
 - [Epistle of Mathetes to Diognetus](https://ccel.org/ccel/schaff/anf01/anf01.iii.ii.html) - Anonymous :star::star::star: :star:
 - [Epistle of Barnabas](https://ccel.org/ccel/ignatius_antioch/epistle_of_barnabas/anf01) - Anonymous :star::star::star:
@@ -70,16 +70,17 @@ On Deck:
 - [Against Christianity](https://canonpress.com/products/against-christianity/) - Peter J. Leithart :star::star::star::star:
 - [Baptism: A Guide From Life to Death](https://lexhampress.com/product/197299/baptism-a-guide-to-life-from-death) - Peter J. Leithart :star::star::star::star:
 
-#### Fiction
+#### 2022 Fiction
 
-- [*Labors of Hercules*](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
+- [Labors of Hercules](https://www.amazon.com/Labors-Hercules-Hercule-Collection-Mysteries/dp/0062073982/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) - Agatha Christie :star::star::star::star:
 -  [Oliver Twist](https://www.amazon.com/Oliver-Twist-Charles-Dickens/dp/1514640376/ref=sr_1_1_sspa?crid=3511VENE51N36&keywords=oliver+twist&qid=1645745069&sprefix=oliver+twist%2Caps%2C171&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjAzVVFZM1gwTUdTJmVuY3J5cHRlZElkPUEwODg4NjExMkVDRVMxT09RU1JSViZlbmNyeXB0ZWRBZElkPUEwOTg3MjczMkJSWkdPSEozMjRBMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - Charles Dickens :star::star::star:
 -  [The Winter King](https://canonpress.com/products/winter-king/) - Christine Cohen :star::star::star::star:
 -  [Phantastes](https://www.amazon.com/Phantastes-George-MacDonald/dp/0802860605/ref=sr_1_6?crid=16CNIYK0C4BMU&keywords=phantastes+by+george+macdonald+eerdmans&qid=1649627578&s=books&sprefix=phantastes+by+george+macdonald+eerdmans%2Cstripbooks%2C106&sr=1-6) - George MacDonald :star::star::star::star:
 - [Ride Sally Ride](https://canonpress.com/products/ride-sally-ride-a-novel/) - Douglas Wilson :star::star::star::star:
 - [To Kill a Mockingbird](https://www.amazon.com/Harper-Lee-Kill-Mockingbird/dp/B00852ZXLQ/ref=sr_1_12?crid=1QZX6G8NGL6U0&keywords=to+kill+a+mockingbird&qid=1659376267&sprefix=to+kill+%2Caps%2C351&sr=8-12) - Harper Lee :star::star::star::star::star:
+- [Kim](https://www.amazon.com/Kim-Rudyard-Kipling/dp/149757532X) - Rudyard Kipling :star::star::star:
 
-#### Self-Help
+#### 2022 Self-Help
 
 - [Future Men: Raising Boys to Fight Giants](https://www.amazon.com/Future-Men-Raising-Fight-Giants/dp/1591281105/ref=sr_1_1?crid=3K8XCVIRFR8WH&keywords=future+men&qid=1650498666&sprefix=future+men%2Caps%2C128&sr=8-1) - Douglas Wilson :star::star::star::star:
 - [Fidelity: How To Be a One-Woman Man](https://canonpress.com/products/fidelity-how-to-be-a-one-woman-man/) - Douglas Wilson :star::star::star::star:
