@@ -21,18 +21,17 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Fidelity: How To Be a One-Woman Man](https://canonpress.com/products/fidelity-how-to-be-a-one-woman-man/) - Douglas Wilson :star::star::star::star:   
+Most Recent Book: [Kim](https://www.amazon.com/Kim-Rudyard-Kipling/dp/149757532X) - Rudyard Kipling :star::star::star:   
 
 Currently Reading:
 
-- [The Institutes of the Christian Religion](https://ccel.org/ccel/calvin/institutes/institutes.) - John Calvin
-- [Kim](https://www.amazon.com/Kim-Rudyard-Kipling/dp/149757532X) - Rudyard Kipling
+- [Jane Eyre](https://www.amazon.com/Jane-Eyre-Everymans-Library-Classics/dp/1857150104) - Charlotte Bronte
 - [The Baptized Body](https://canonpress.com/products/the-baptized-body/) - Peter J. Leithart
 
 
 On Deck:
 
-- [Jane Eyre](https://www.amazon.com/Jane-Eyre-Everymans-Library-Classics/dp/1857150104) - Charlotte Bronte
+- ?? Some type of memoir ??
 
 ---
 
