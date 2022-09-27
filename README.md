@@ -6,8 +6,8 @@
 
 ---
 
-![This Years Books](https://img.shields.io/badge/Books%20This%20Year-26-success)
-![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-26-blue)
+![This Years Books](https://img.shields.io/badge/Books%20This%20Year-27-success)
+![Books To Date](https://img.shields.io/badge/Total%20Books%20To%20Date-27-blue)
 
 ## About
 
@@ -21,17 +21,16 @@ My general interests are Christian theology, cultural commentary, poetry, and hi
 
 ---
 
-Most Recent Book: [Kim](https://www.amazon.com/Kim-Rudyard-Kipling/dp/149757532X) - Rudyard Kipling :star::star::star:   
+Most Recent Book: [The Baptized Body](https://canonpress.com/products/the-baptized-body/) - Peter J. Leithart :star::star::star::star:   
 
 Currently Reading:
 
 - [Jane Eyre](https://www.amazon.com/Jane-Eyre-Everymans-Library-Classics/dp/1857150104) - Charlotte Bronte
-- [The Baptized Body](https://canonpress.com/products/the-baptized-body/) - Peter J. Leithart
-
+- [The Journal of John Wesley](https://onlinechristianlibrary.com/book/the-journal-of-john-wesley/) - John Wesley
 
 On Deck:
 
-- ?? Some type of memoir ??
+- ??
 
 ---
 
@@ -69,6 +68,7 @@ On Deck:
 - [On Christian Teaching](https://www.amazon.com/Christian-Teaching-St-Augustine/dp/0199540632/ref=sr_1_1?keywords=on+christian+teaching+augustine&qid=1653158221&sprefix=on+christian+tea%2Caps%2C122&sr=8-1) - St. Augustine :star::star::star::star:
 - [Against Christianity](https://canonpress.com/products/against-christianity/) - Peter J. Leithart :star::star::star::star:
 - [Baptism: A Guide From Life to Death](https://lexhampress.com/product/197299/baptism-a-guide-to-life-from-death) - Peter J. Leithart :star::star::star::star:
+- [The Baptized Body](https://canonpress.com/products/the-baptized-body/) - Peter J. Leithart :star::star::star::star:
 
 #### 2022 Fiction
 
