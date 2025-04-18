@@ -1,6 +1,6 @@
 # General Notes
 
-### Epistle of Mathetes to Diognetus
+## Epistle of Mathetes to Diognetus
 
 - Could ch. 4 be an early attestation to the Christian Church *not* following a church calendar like a majority of the church does today?
 
