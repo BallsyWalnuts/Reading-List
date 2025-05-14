@@ -27,7 +27,7 @@ Currently Reading:
 
 - [The Last of the Mohicans](https://www.goodreads.com/book/show/38296.The_Last_of_the_Mohicans) - James Fenimore Cooper
 - [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) - Fyodor Dostoyevsky
-- [the Ink Black Heart](https://www.goodreads.com/book/show/60144955-the-ink-black-heart) - Robert Galbraith
+- [The Running Grave](https://www.goodreads.com/book/show/139399948-the-running-grave) - Robert Galbraith
 
 On Deck:
 
@@ -56,6 +56,7 @@ On Deck:
 - [Troubled Blood](https://www.goodreads.com/book/show/51807232-troubled-blood) - Robert Galbraith :star::star::star::star:
 - [Dead Man's Walk](https://www.goodreads.com/book/show/54804.Dead_Man_s_Walk) - Larry McMurtry :star::star::star::star::star:
 - [Comanche Moon](https://www.goodreads.com/book/show/54807.Comanche_Moon) - Larry McMurtry :star::star::star:
+- [the Ink Black Heart](https://www.goodreads.com/book/show/60144955-the-ink-black-heart) - Robert Galbraith :star::star::star::star:
 
 ### 2025 Non-Fiction
 
